@@ -1,0 +1,6 @@
+# .gitignore
+.env
+node_modules
+trained_model
+venv
+my-app
